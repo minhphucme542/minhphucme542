@@ -7,7 +7,9 @@ I'm Phuc Le, a 🚀 HCMUS student passionate about 💻 AI and Computer Science.
 ## 📊 Skills & Expertise
 
 💻 Programming languages:
+
 ![Python] (https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png)
+
 - ![Python](https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png =90x)
 - ![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png =90x)
 - ![C++](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/459px-ISO_C%2B%2B_Logo.svg.png =90x)
