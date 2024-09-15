@@ -32,7 +32,7 @@ I'm Phuc Le, a 🚀 HCMUS student passionate about 💻 AI and Computer Science.
 
 - 📧 Email: phucle02@protonmail.com
 
-- 💼 LinkedIn: linkedin.com/in/phuc-le-b20388329
+- 💼 LinkedIn: https://www.linkedin.com/in/phuc-le-b20388329
 
 ## 🤝 Let's Connect!
 
